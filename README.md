@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @uta-never
 - 👀 I’m interested in something for sure.
-- 🌱 I’m currently learning to live.
-- 💞️ I’m looking to collaborate on HPC/beer
 - 📫 How to reach me ronit.neve@uta.edu
 
 <!---
